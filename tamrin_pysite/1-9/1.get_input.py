@@ -1,0 +1,5 @@
+name=input("type your name: ")
+age=input("type you age: ")
+die_year=2120-int(age)
+multiple=int(input("how many time your message should be printed? "))
+print(multiple*f'hi {name}, in {die_year} you will be 100 years old!!! \n')
